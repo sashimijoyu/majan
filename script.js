@@ -65,7 +65,7 @@ function start() {
 		haipai[m].src = `./0/${n.type}_${n.number}${
 			n.number == 5 ? (n.red ? "_1" : "_0") : ""
 		}.gif`;
-		$(".tehai:eq(0)").after(`<img class="hai" src="${haipai[m].src}" />`)
+		$(".tehai:eq(0)").append(`<img class="hai" src="${haipai[m].src}" />`)
 	});
 }
 
