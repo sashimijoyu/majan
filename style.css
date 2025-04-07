@@ -1,0 +1,17 @@
+
+.start{
+    color:red;
+    font-size: 80px;
+    position:absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -30%);
+}
+
+.tehai{
+    font-size: 50px;
+    position: absolute;
+    left: 20%;
+    top: 80%;
+    transform: translate(-80%,-20%);
+}
