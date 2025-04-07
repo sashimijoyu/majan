@@ -58,8 +58,8 @@ function start() {
 		haipai.push(tehai);
 	}
 
-	haipai.sort((a, b) => b.hainumber - a.hainumber);
-	console.log(haipai);
+	haipai.sort((a, b) => a.hainumber - b.hainumber);
+
 	$(".tehai:eq(0)").empty()
 	haipai.forEach((n, m) => {
 		haipai[m].src = `./0/${n.type}_${n.number}${
