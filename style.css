@@ -1,5 +1,5 @@
 .start {
-    text-align: center;
+	text-align: center;
 	color: red;
 	font-size: 80px;
 	position: absolute;
@@ -9,8 +9,8 @@
 }
 
 .tehai {
-    text-align: center;
-    width: 80vw;
+	text-align: center;
+	width: 80vw;
 	position: absolute;
 	left: 50%;
 	top: 80%;
@@ -18,5 +18,5 @@
 }
 
 .tehai img {
-    width: 50px;
+	width: 50px;
 }
