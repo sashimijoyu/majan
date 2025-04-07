@@ -13,8 +13,8 @@
 	width: 80vw;
 	position: absolute;
 	left: 50%;
-	top: 90%;
-	transform: translate(-50%, -90%);
+	bottom: 0;
+	transform: translateX(-50%);
 }
 
 .tehai img {
