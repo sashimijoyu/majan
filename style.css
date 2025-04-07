@@ -1,17 +1,22 @@
-
-.start{
-    color:red;
-    font-size: 80px;
-    position:absolute;
+.start {
+    text-align: center;
+	color: red;
+	font-size: 80px;
+	position: absolute;
 	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -30%);
 }
 
-.tehai{
-    font-size: 50px;
-    position: absolute;
-    left: 20%;
-    top: 80%;
-    transform: translate(-80%,-20%);
+.tehai {
+    text-align: center;
+    width: 80vw;
+	position: absolute;
+	left: 50%;
+	top: 80%;
+	transform: translate(-50%, -80%);
+}
+
+.tehai img {
+    width: 50px;
 }
