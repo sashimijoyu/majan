@@ -20,3 +20,37 @@
 .tehai img {
 	width: 65px;
 }
+
+.tsumo{
+	text-align: center;
+	width: 0px;
+	position: absolute;
+	right: 15%;
+	bottom: 0;
+}
+
+.tsumo img {
+	width: 65px;
+}
+
+.tsumocomand{
+	text-align: center;
+	width: 0px;
+	position: absolute;
+	right: 15%;
+	top: 80%;
+	transform: translate(-15%,-80%);
+}
+
+.river img{
+	display: inline-block;
+	width: 40px;
+}
+
+.river{
+	width: 256px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	word-break: break-all;
+}
